@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    height: 100vh;
+    min-height: 100vh;
+}
+
+
+
+
+#slide-page {
+    background-color: white;
+}
+
+
+.loading-bar {
+    height: 10px;
+    background-color: darkred;
+
+}
